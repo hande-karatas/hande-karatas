@@ -30,11 +30,11 @@ Co-author of peer-reviewed ML research applying **Artificial Neural Networks, XG
 
 **📄 Pix2Daylight — Real-time ML Predictor** &nbsp;·&nbsp; *peer-reviewed, 2025*
 Co-authored research training ANN, XGBoost, and Pix2Pix models on a custom-generated dataset; benchmarked numerical and image-based encodings; deployed proof-of-concept for real-time prediction.
-→ [Read the paper on ScienceDirect](https://www.sciencedirect.com/REPLACE-WITH-YOUR-PAPER-URL)
+→ [Read the paper on ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S0360132325002252)
 
 **📊 Interactive Dashboards on Tableau Public**
 Conversion funnels, cohort retention, and growth metrics built on public datasets.
-→ [View my Tableau Public profile](https://public.tableau.com/REPLACE-WITH-YOUR-TABLEAU-URL)
+→ [View my Tableau Public profile](https://public.tableau.com/app/profile/hande.karatas/vizzes)
 
 **📂 Pinned repositories below** &nbsp;↓
 Independent projects on public datasets demonstrating SQL, Python, and ML techniques applied to business and product problems.
